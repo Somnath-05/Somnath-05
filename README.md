@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=180&section=header&text=Hi%20there,%20I'm%20Somnath%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:8E54E9,100:1DE9B6&height=180&section=header&text=Hi%20there,%20I'm%20Somnath%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions;Building+clean%2C+reliable+software;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Turning+data+into+decisions;Building+clean%2C+reliable+software;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -47,14 +47,6 @@
 
 ---
 
-### 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -69,4 +61,4 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:2E9EF7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DE9B6,50:8E54E9,100:FF6B6B&height=100&section=footer" width="100%"/>
