@@ -13,11 +13,9 @@
 ### 🧑‍💻 About Me
 
 - 🔍 I analyze data and build software to turn raw numbers into useful insights
-- 🛠️ Currently working on: *[project name]*
-- 🌱 Currently learning: *[skill/tech you're learning]*
-- 💬 Ask me about: *SQL, Python, data visualization, [your other strengths]*
-- 📫 How to reach me: *your.email@example.com*
-- ⚡ Fun fact: *[something fun about you]*
+- 🌱 Currently learning: AI and ML
+- 💬 Ask me about: SQL, Python, data visualization
+- ⚡ Fun fact: Don't miss a semicolon(i do miss)
 
 ---
 
