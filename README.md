@@ -49,35 +49,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
-
-<!--
-  Contribution snake (needs a one-time GitHub Action setup):
-  1. Add the workflow from https://github.com/Platane/snk to your profile repo
-  2. It generates github-contribution-grid-snake.svg automatically on a schedule
-  Then uncomment the line below:
--->
-<!-- <p align="center"><img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" /></p> -->
-
----
-
 ### 💭 Random Dev Quote
 
 <p align="center">
@@ -101,4 +72,3 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:2E9EF7&height=100&section=footer" width="100%"/>
-
